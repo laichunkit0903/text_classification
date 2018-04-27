@@ -1,0 +1,8 @@
+@import url("bootstrap.min.css");
+@import url("bootstrap-theme.css");
+
+.jumbotron{
+min-height: 600px;
+color: #FFFFFF;
+/*background-color:none !important;*/
+}
